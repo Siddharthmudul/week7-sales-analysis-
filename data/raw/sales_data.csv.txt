@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,region
+10001,2024-01-05,C001,P001,Laptop,Electronics,2,850,North
+10002,2024-01-08,C002,P002,Smartphone,Electronics,1,650,South
+10003,2024-01-15,C003,P003,T-Shirt,Clothing,3,25,West
+10004,2024-01-20,C004,P004,Sofa,Home & Garden,1,450,East
+10005,2024-02-03,C005,P005,Novel,Books,2,30,North
+10006,2024-02-10,C001,P006,Headphones,Electronics,2,120,South
+10007,2024-02-15,C006,P007,Shoes,Clothing,1,80,West
+10008,2024-02-22,C007,P008,Table,Home & Garden,1,250,East
+10009,2024-03-05,C008,P009,Programming Book,Books,2,45,North
+10010,2024-03-12,C002,P010,Football,Sports,3,35,South
+10011,2024-03-18,C009,P001,Laptop,Electronics,1,850,West
+10012,2024-03-25,C010,P003,T-Shirt,Clothing,5,25,East

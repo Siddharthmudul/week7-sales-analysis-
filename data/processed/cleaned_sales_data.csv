@@ -1,0 +1,13 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,region,total_sales,year,month,month_name,month_period
+10001,2024-01-05,C001,P001,Laptop,Electronics,2,850,North,1700,2024,1,January,2024-01
+10002,2024-01-08,C002,P002,Smartphone,Electronics,1,650,South,650,2024,1,January,2024-01
+10003,2024-01-15,C003,P003,T-Shirt,Clothing,3,25,West,75,2024,1,January,2024-01
+10004,2024-01-20,C004,P004,Sofa,Home & Garden,1,450,East,450,2024,1,January,2024-01
+10005,2024-02-03,C005,P005,Novel,Books,2,30,North,60,2024,2,February,2024-02
+10006,2024-02-10,C001,P006,Headphones,Electronics,2,120,South,240,2024,2,February,2024-02
+10007,2024-02-15,C006,P007,Shoes,Clothing,1,80,West,80,2024,2,February,2024-02
+10008,2024-02-22,C007,P008,Table,Home & Garden,1,250,East,250,2024,2,February,2024-02
+10009,2024-03-05,C008,P009,Programming Book,Books,2,45,North,90,2024,3,March,2024-03
+10010,2024-03-12,C002,P010,Football,Sports,3,35,South,105,2024,3,March,2024-03
+10011,2024-03-18,C009,P001,Laptop,Electronics,1,850,West,850,2024,3,March,2024-03
+10012,2024-03-25,C010,P003,T-Shirt,Clothing,5,25,East,125,2024,3,March,2024-03

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# Generated reports
+data/reports/*.xlsx
+data/reports/*.txt
+data/reports/*.csv
+data/reports/visualizations/
+
+# Generated processed data
+data/processed/*.csv
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,26 @@
+
+📊 SALES DATA ANALYSIS REPORT
+===============================
+
+📅 Analysis Period: Jan 2024 - Mar 2024
+
+💰 Total Sales: $4,675.00
+📈 Average Monthly Sales: $1,558.33
+🏆 Top Product Category: Electronics ($3,440.00)
+
+📈 Monthly Sales Trend:
+- Jan: $2,875.00
+- Feb: $630.00
+- Mar: $1,170.00
+
+📦 Top 5 Products:
+1. Laptop Pro: $123,456
+2. Smartphone X: $98,765
+3. Wireless Headphones: $67,890
+4. Tablet Air: $56,789
+5. Smart Watch: $45,678
+
+📊 Customer Insights:
+- Total Customers: 10
+- Average Order Value: $389.58
+- Repeat Customers: 2 (20.0%)
